@@ -1,0 +1,3 @@
+PyAutoGUI==0.9.53
+py2app=
+rumps
