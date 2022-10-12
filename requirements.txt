@@ -1,3 +1,4 @@
 PyAutoGUI==0.9.53
 py2app==0.28.4
-rumps==0.4.0
+git+https://github.com/jaredks/rumps@master
+#rumps==0.4.0
