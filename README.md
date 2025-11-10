@@ -1,7 +1,7 @@
 
 # I am here
 
-A menubar app that keeps the mouse moving on your computer 
+A menubar app that keeps the mouse moving on your computer
 
 - to watch a movie without the screensaver turning on
 - to read a long article
@@ -10,6 +10,7 @@ A menubar app that keeps the mouse moving on your computer
 ## Authors
 
 Developed by Ivan Storck
+
 - [@ivanoats on github](https://www.github.com/ivanoats)
 - [@ivanoats on linkedin](https://www.linkedin.com/ivanoats)
 
@@ -18,7 +19,6 @@ Developed by Ivan Storck
 - [PyAutoGUI](https://github.com/asweigart/pyautogui)
 - [Py2App](https://py2app.readthedocs.io/en/latest/index.html)
 - [Rumps](https://rumps.readthedocs.io/en/latest/)
-
 
 ## Run Locally
 
@@ -51,7 +51,6 @@ or build the app with alias mode:
 ```bash
 python3 setup.py py2app -A
 ```
-
 
 ## Build and Install
 
